@@ -225,10 +225,8 @@ print(f"Predicted: {KEEP_CLASSES[class_idx]} ({confidence:.2%})")
 │   ├── train/
 │   ├── val/
 │   └── test/
-├── cnn.ipynb                 # data split and model training
-├── train.py                  # Training script
-├── inference.py              # Inference utility
-├── eda/                      # Exploratory data analysis notebooks & visualisations
+├── cnn.ipynb                                                    # data split and model training
+├──data-visualization-endangered-animals.ipynb                   # Exploratory data analysis notebooks & visualisations
 └── README.md
 ```
 
